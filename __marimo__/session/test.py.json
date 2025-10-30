@@ -1,0 +1,79 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.17.4"
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "1d0db38904205bec4d6f6f6a1f6cec3e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "UTSB",
+      "code_hash": "d153af1033fb6e2cde8eaa8e0198ba6e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"welcome-to-marimo\">Welcome to marimo! \ud83c\udf0a\ud83c\udf43</h1></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Clia",
+      "code_hash": "88237970a229e61d3763b3e0fb3083e9",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "MzAl",
+      "code_hash": "10bf08f0bbd6689475be65b4ae441bd9",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='Clia-0' random-id='0606730b-ba14-02d8-3217-659faed31453'><marimo-slider data-initial-value='1' data-label='null' data-start='1' data-stop='22' data-steps='[]' data-debounce='false' data-disabled='false' data-orientation='&quot;horizontal&quot;' data-show-value='false' data-include-input='false' data-full-width='false'></marimo-slider></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "XSmj",
+      "code_hash": "b5b5e2188df7b5bcd932fed8d2395861",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre style='font-size: 12px'>15</pre>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "CuOh",
+      "code_hash": null,
+      "outputs": [],
+      "console": []
+    }
+  ]
+}
